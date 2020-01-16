@@ -1,0 +1,10 @@
+[
+    people => [
+        {
+            "name": "Павел",
+            "surname": "Скляр",
+            "phone": "8 (999) 888-77-66",
+            "email": "pavel@sklyar.ru"
+        }
+    ]
+]
